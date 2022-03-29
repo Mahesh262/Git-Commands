@@ -1,0 +1,1 @@
+git remote remove origin   # убрать привязку удалённого репозитория с сокр. именем origin
